@@ -1,2 +1,2 @@
 # Monitoramento-Logos
-Logos de Clientes para Grafana
+Logos de Routerx para Grafana
